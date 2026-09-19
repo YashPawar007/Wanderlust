@@ -177,7 +177,7 @@ MAJORPROJECT/
 **Yash Pawar**
 
 - GitHub: [YashPawar007](https://github.com/YashPawar007)
-- LinkedIn: [Your LinkedIn Profile](YOUR_LINKEDIN_URL)
+- LinkedIn: [Yash Pawar](https://www.linkedin.com/in/yashpawar0999)
 
 ## License
 
