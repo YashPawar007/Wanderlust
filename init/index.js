@@ -32,7 +32,7 @@ const categories = [
 ];
 
 const initDB = async () => {
-    // await Listing.deleteMany({});
+    await Listing.deleteMany({});
 
     initData.data = await Promise.all(
         initData.data.map(async (obj, i) => {
